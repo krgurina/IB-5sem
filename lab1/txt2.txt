@@ -1,0 +1,10 @@
+Transfer of information (data) is carried out between two
+ subscribers, called the source of the message (IS) and receiving
+ message body (TS).  The third element of the information system
+ topic is the transmission channel (medium) connecting IS and PS.
+ Note also that in systems with information storage
+ You can always distinguish IS and PS.  In this case, the channel re-
+ The data storage device (memory) is used here.
+ For example, when writing data to RAM (random access memory)
+ device) of a computer as an IS and PS can act as a pro-
+ processor (when writing and reading data, respectively).
